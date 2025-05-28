@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.0.2
+* Trying to fix permissions
+
 ## 5.0.1
 * Picked Up from [Alex](https://github.com/alex3305/) left
 * Updated Traefik to Version 3.4.1

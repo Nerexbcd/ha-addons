@@ -1,0 +1,1 @@
+/etc/cont-init.d/traefik.sh true root 777
